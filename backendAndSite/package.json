@@ -1,0 +1,30 @@
+{
+  "name": "crazy-square-game",
+  "version": "1.0.0",
+  "description": "A multiplayer game built with java (android) and js as webPage (Monitor of the game :] )",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Startin app\n\" && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos515/CrazySquareGame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcos515/CrazySquareGame/issues"
+  },
+  "homepage": "https://github.com/marcos515/CrazySquareGame#readme",
+  "dependencies": {
+    "dateformat": "^5.0.2",
+    "dotenv": "^16.0.0",
+    "firebase": "^9.6.6",
+    "ngrok": "^4.3.0",
+    "node-static": "^0.7.11",
+    "push-receiver": "^2.1.1",
+    "restify": "^8.6.1",
+    "socket.io": "^4.4.1"
+  }
+}

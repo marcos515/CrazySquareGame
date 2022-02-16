@@ -1,0 +1,14 @@
+table, th, td {
+  border:1px solid black;
+ 
+  margin: 0;
+  border-spacing: 0;
+}
+td{
+  width: 30px;
+  height: 30px;
+}
+
+li {
+  font-size: large;
+}

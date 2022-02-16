@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">squareCrazyGame</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">username</string>
+    <string name="action_sign_in">Enter</string>
+    <string name="default_notification_channel_id">fuKaGSXTd2M:APA91bGUVtAn5-2rPOcE_FbY9ZkZJ18qN4xIIEyDdUBf1Ni0kGWAKdeXD23GOaBYIJoZ3iT7uPlSd5JC4BdBQpzk-yEd6XskUmAX6ckpateca-fDtusJzoiI11I5FT4ldAhZNiMWjhIu</string>
+
+
+    <string name="fcm_message">userUpdate</string>
+    <string name="msg_token_fmt">userUpdate</string>
+
+</resources>
